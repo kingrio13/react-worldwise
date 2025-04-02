@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "3731",
+      "cityName": "Bauang",
+      "countryName": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2025-02-20T12:29:14.792Z",
+      "notes": "zza",
+      "position": {
+        "lat": "16.557227187102747",
+        "lng": "120.35522460937501"
+      }
+    },
+    {
+      "id": "6823",
+      "cityName": "Huyen Nam Giang",
+      "countryName": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2025-02-24T07:09:13.860Z",
+      "notes": "wwww",
+      "position": {
+        "lat": "15.728813770533979",
+        "lng": "107.75390625"
+      }
+    },
+    {
+      "id": "fc7b",
+      "cityName": "Tamia",
+      "countryName": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-02-24T08:10:10.713Z",
+      "notes": "azzzzz",
+      "position": {
+        "lat": "22.350075806124867",
+        "lng": "78.53027343750001"
+      }
+    },
+    {
+      "id": "0cd1",
+      "cityName": "Bauang",
+      "countryName": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2025-02-27T01:35:15.761Z",
+      "notes": "qqaa",
+      "position": {
+        "lat": "16.500286722350317",
+        "lng": "120.33445358276369"
+      }
+    }
+  ]
+}
